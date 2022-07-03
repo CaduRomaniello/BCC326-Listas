@@ -1,0 +1,67 @@
+# Created by Octave 6.4.0, Thu Mar 24 14:52:05 2022 GMT <unknown@notebookDoCadu>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 4
+ 2 10 7 6
+ 3 12 25 9
+ 30 21 19 1
+
+
+# name: B
+# type: matrix
+# rows: 3
+# columns: 2
+ 10 6
+ 12 9
+ 21 1
+
+
+# name: C
+# type: matrix
+# rows: 1
+# columns: 23
+ 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63 65 67 69 71 73 75
+
+
+# name: M
+# type: matrix
+# rows: 1
+# columns: 10
+ 18 22 27 83 9216 70 11 29 21 10
+
+
+# name: ans
+# type: scalar
+92
+
+
+# name: idx
+# type: scalar
+1
+
+
+# name: index
+# type: scalar
+5
+
+
+# name: val
+# type: scalar
+92
+
+
+# name: value
+# type: scalar
+96
+
+
+# name: x
+# type: matrix
+# rows: 3
+# columns: 1
+ 1
+ 2
+ 3
+
+
